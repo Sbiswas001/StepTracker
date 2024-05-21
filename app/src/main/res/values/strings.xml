@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Step Tracker</string>
+    <string name="target">Target: 0</string>
+    <string name="progress">0</string>
 </resources>
