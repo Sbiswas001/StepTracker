@@ -19,7 +19,7 @@
             android:gravity="center"
             android:layout_marginTop="30dp"
             android:textSize="40sp"
-            android:text="@string/goal_0"/>
+            android:text="@string/target"/>
 
         <TextView
             android:id="@+id/progress"
@@ -28,7 +28,7 @@
             android:gravity="center"
             android:layout_marginTop="250dp"
             android:textSize="40sp"
-            android:text="@string/zero"/>
+            android:text="@string/progress"/>
 
     </LinearLayout>
 
