@@ -11,7 +11,6 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:orientation="vertical">
-
         <TextView
             android:id="@+id/goal"
             android:layout_width="match_parent"
@@ -20,7 +19,6 @@
             android:layout_marginTop="30dp"
             android:textSize="40sp"
             android:text="@string/target"/>
-
     </LinearLayout>
     <TextView
         android:id="@+id/progress"
