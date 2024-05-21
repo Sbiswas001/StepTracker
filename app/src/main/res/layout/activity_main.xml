@@ -21,16 +21,16 @@
             android:textSize="40sp"
             android:text="@string/target"/>
 
-        <TextView
-            android:id="@+id/progress"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:gravity="center"
-            android:layout_marginTop="250dp"
-            android:textSize="40sp"
-            android:text="@string/progress"/>
-
     </LinearLayout>
+    <TextView
+        android:id="@+id/progress"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:gravity="center"
+
+        android:textSize="40sp"
+        android:text="@string/progress"/>
 
     <ProgressBar
         android:id="@+id/circular_progress_bar"
